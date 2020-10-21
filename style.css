@@ -1,0 +1,12 @@
+#deep{color: red; 
+	text-align: left; 
+	font-family: verdana;
+     font-size: 25px;}
+     .deep_class1{color: orange;
+     	text-align: left;
+     	font-family: couries;
+     	font-size:35px;
+     	border: 2px solid powderblue;}
+.deep_class2{ color: pink;
+border-style: dotted;
+}
